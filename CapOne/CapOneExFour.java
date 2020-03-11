@@ -48,7 +48,7 @@ public class CapOneExFour {
             message = "no average output"; 
         }
         
-        CapOneExThree.infoBox(message, "Names and prices");
+        CapOneExFour.infoBox(message, "Names and prices");
 
     }
 
